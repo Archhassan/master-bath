@@ -30,19 +30,19 @@
     <autorotate delay="1.00" useanimation="1" speed="0.100" horizonfromdefview="0" startloaded="0" nodedelay="0.00" enabled="1" noderandom="1" nodefilter="" returntohorizon="0.000"/>
     <soundstransition enabled="1" transitiontime="1.1000000000000001" crossfade="0"/>
     <animation clipsrandom="0" animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="1">
-      <clip length="324" cliptitle="Clip02" nodeid="" animtype="0" nextclipstartview="1.33439/0.855702/127.848/9" animtitle="Animation01" nextcliptitle="Clip01" transitiontype="0" nextclipnodeid="node4">
+      <clip length="324" cliptitle="Clip02" nodeid="" animtype="0" nextclipstartview="1.33439/0.855702/127.848/4" animtitle="Animation01" nextcliptitle="Clip01" transitiontype="0" nextclipnodeid="node4">
         <keyframe value="88.9586" valuestring="" type="0" transitiontime="0" additionaltrackid="" property="0" time="0"/>
         <keyframe value="-96.2271" valuestring="" type="0" transitiontime="0" additionaltrackid="" property="1" time="0"/>
         <keyframe value="237.321" valuestring="" type="0" transitiontime="0" additionaltrackid="" property="2" time="0"/>
         <keyframe value="9" valuestring="" type="0" transitiontime="0" additionaltrackid="" property="3" time="0"/>
-        <keyframe value="9" valuestring="" type="0" transitiontime="8" additionaltrackid="" property="3" time="29"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="89.1923" property="0" time="25" bezierouttime="26.8" value="88.96" type="2" bezierinvalue="88.534" bezierintime="21.7"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-57.2181" property="1" time="24" bezierouttime="25.7852" value="-65.4545" type="2" bezierinvalue="-80.5545" bezierintime="20.7271"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="225.392" property="2" time="23" bezierouttime="24.7992" value="220.453" type="2" bezierinvalue="211.396" bezierintime="19.7014"/>
+        <keyframe value="4" valuestring="" type="0" transitiontime="8" additionaltrackid="" property="3" time="29"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="89.1923" property="0" time="14" bezierouttime="15.8" value="88.96" type="2" bezierinvalue="88.534" bezierintime="10.7"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-57.2181" property="1" time="13" bezierouttime="14.7852" value="-65.4545" type="2" bezierinvalue="-80.5545" bezierintime="9.7271"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="225.392" property="2" time="12" bezierouttime="13.7992" value="220.453" type="2" bezierinvalue="211.396" bezierintime="8.7014"/>
         <keyframe value="9" valuestring="" type="0" transitiontime="12" additionaltrackid="" property="3" time="3"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="91.6254" property="0" time="36" bezierouttime="39.3" value="91.153" type="2" bezierinvalue="90.8953" bezierintime="34.2"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-13.2026" property="1" time="36" bezierouttime="39.3" value="-17.794" type="2" bezierinvalue="-20.2964" bezierintime="34.2014"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="238.495" property="2" time="36" bezierouttime="39" value="220.094" type="2" bezierinvalue="209.077" bezierintime="34.2038"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="91.2389" property="0" time="34" bezierouttime="34.6" value="91.153" type="2" bezierinvalue="90.8953" bezierintime="32.2"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="0.83741" property="1" time="33" bezierouttime="33.6" value="0.00261017" type="2" bezierinvalue="-2.49979" bezierintime="31.2014"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="163.774" property="2" time="34" bezierouttime="34.6" value="160.094" type="2" bezierinvalue="149.077" bezierintime="32.2038"/>
         <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="89.6034" property="0" time="61" bezierouttime="61.9" value="89.6034" type="2" bezierinvalue="89.6034" bezierintime="57.7"/>
         <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-0.343007" property="1" time="61" bezierouttime="61.9" value="-0.343007" type="2" bezierinvalue="-0.343007" bezierintime="57.7"/>
         <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="118.687" property="2" time="61" bezierouttime="61.9" value="118.687" type="2" bezierinvalue="118.687" bezierintime="58"/>
@@ -66,6 +66,9 @@
         <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="89.3499" property="0" time="324" bezierouttime="10324" value="89.3499" type="2" bezierinvalue="89.3499" bezierintime="286.8"/>
         <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-96.5015" property="1" time="324" bezierouttime="10324" value="-96.5015" type="2" bezierinvalue="-96.5015" bezierintime="286.8"/>
         <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="277.702" property="2" time="324" bezierouttime="10324" value="277.702" type="2" bezierinvalue="277.702" bezierintime="286.8"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="92.3894" property="0" time="38" bezierouttime="44.9" value="92.3894" type="2" bezierinvalue="92.3894" bezierintime="37.4"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-2.22466" property="1" time="38" bezierouttime="44.9" value="-2.22466" type="2" bezierinvalue="-2.22466" bezierintime="37.4"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="127.806" property="2" time="38" bezierouttime="44.9" value="127.806" type="2" bezierinvalue="127.806" bezierintime="37.4"/>
       </clip>
     </animation>
     <control sensitivity="20" contextprojections="1" zoomcentercursor="1" simulatemass="1" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedmouse="0" contextvr="0" lockedwheel="0" hideabout="0" invertwheel="0" speedwheel="1" contextfullscreen="0" dblclickfullscreen="0">
@@ -106,26 +109,32 @@
         <keyframe value="1.33439" valuestring="" type="0" transitiontime="0" additionaltrackid="" property="0" time="0"/>
         <keyframe value="0.855702" valuestring="" type="0" transitiontime="0" additionaltrackid="" property="1" time="0"/>
         <keyframe value="127.848" valuestring="" type="0" transitiontime="0" additionaltrackid="" property="2" time="0"/>
-        <keyframe value="9" valuestring="" type="0" transitiontime="11" additionaltrackid="" property="3" time="0"/>
+        <keyframe value="4" valuestring="" type="0" transitiontime="11" additionaltrackid="" property="3" time="0"/>
         <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-1.45918" property="0" time="4" bezierouttime="6.1" value="-0.499114" type="2" bezierinvalue="-0.0876567" bezierintime="3.1"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="28.6339" property="1" time="4" bezierouttime="6.0999" value="26.0976" type="2" bezierinvalue="25.0106" bezierintime="3.10004"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="249.506" property="2" time="4" bezierouttime="6.09994" value="239.698" type="2" bezierinvalue="235.495" bezierintime="3.10002"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="39.3119" property="1" time="4" bezierouttime="6.0999" value="36.7756" type="2" bezierinvalue="35.6886" bezierintime="3.10004"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="148.061" property="2" time="4" bezierouttime="6.09994" value="138.253" type="2" bezierinvalue="134.05" bezierintime="3.10002"/>
         <keyframe value="4" valuestring="" type="0" transitiontime="5" additionaltrackid="" property="3" time="17"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-3.30185" property="0" time="17" bezierouttime="23" value="-3.23736" type="2" bezierinvalue="-3.21479" bezierintime="14.9"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="6.96353" property="1" time="17" bezierouttime="22.9992" value="12.9338" type="2" bezierinvalue="15.0234" bezierintime="14.9003"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="136.811" property="2" time="17" bezierouttime="22.8948" value="174.553" type="2" bezierinvalue="187.314" bezierintime="15.0068"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-0.325647" property="0" time="40" bezierouttime="46" value="-0.789348" type="2" bezierinvalue="-1.25305" bezierintime="34"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="0.308348" property="1" time="40" bezierouttime="46" value="-0.772065" type="2" bezierinvalue="-1.85248" bezierintime="34"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="47.3296" property="2" time="40" bezierouttime="45.9999" value="66.8157" type="2" bezierinvalue="86.3018" bezierintime="34.0001"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-1.07044" property="0" time="60" bezierouttime="62.4" value="-0.996138" type="2" bezierinvalue="-0.810374" bezierintime="54"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="25.2443" property="1" time="60" bezierouttime="62.3993" value="18.1558" type="2" bezierinvalue="0.434523" bezierintime="54.0017"/>
-        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="89.7824" property="2" time="60" bezierouttime="62.4" value="80.3691" type="2" bezierinvalue="56.8359" bezierintime="54.0001"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-3.30185" property="0" time="17" bezierouttime="23" value="-3.23736" type="2" bezierinvalue="-3.22124" bezierintime="15.5"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="6.96353" property="1" time="17" bezierouttime="22.9992" value="12.9338" type="2" bezierinvalue="14.4266" bezierintime="15.5"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="136.811" property="2" time="17" bezierouttime="22.8948" value="174.553" type="2" bezierinvalue="184.156" bezierintime="15.5"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-0.742978" property="0" time="40" bezierouttime="40.6" value="-0.789348" type="2" bezierinvalue="-1.25305" bezierintime="34"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-0.664024" property="1" time="40" bezierouttime="40.6" value="-0.772065" type="2" bezierinvalue="-1.85248" bezierintime="34"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="64.8671" property="2" time="40" bezierouttime="40.6" value="66.8157" type="2" bezierinvalue="86.3018" bezierintime="34.0001"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-1.07044" property="0" time="60" bezierouttime="62.4" value="-0.996138" type="2" bezierinvalue="-0.82895" bezierintime="54.6"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="25.2443" property="1" time="60" bezierouttime="62.3993" value="18.1558" type="2" bezierinvalue="2.20213" bezierintime="54.6"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="89.7824" property="2" time="60" bezierouttime="62.4" value="80.3691" type="2" bezierinvalue="59.1889" bezierintime="54.6"/>
         <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-58.9776" property="0" time="83" bezierouttime="86.3" value="-58.9776" type="2" bezierinvalue="-58.9776" bezierintime="80.6"/>
         <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="55.3616" property="1" time="83" bezierouttime="86.3" value="55.3616" type="2" bezierinvalue="55.3616" bezierintime="80.6"/>
         <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="141.339" property="2" time="83" bezierouttime="86.3" value="141.339" type="2" bezierinvalue="141.339" bezierintime="80.6"/>
         <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-89.6776" property="0" time="94" bezierouttime="10094" value="-89.6776" type="2" bezierinvalue="-89.6776" bezierintime="90.7"/>
         <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="90.2916" property="1" time="94" bezierouttime="10094" value="90.2916" type="2" bezierinvalue="90.2916" bezierintime="90.7"/>
         <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="141.339" property="2" time="94" bezierouttime="10094" value="141.339" type="2" bezierinvalue="141.339" bezierintime="90.7"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-3.73315" property="0" time="12" bezierouttime="13.5" value="-3.73315" type="2" bezierinvalue="-3.73315" bezierintime="9.6"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="1.63635" property="1" time="12" bezierouttime="13.5" value="1.63635" type="2" bezierinvalue="1.63635" bezierintime="9.6"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="138.253" property="2" time="12" bezierouttime="13.5" value="138.253" type="2" bezierinvalue="138.253" bezierintime="9.6"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="1.68086" property="0" time="42" bezierouttime="47.4" value="1.68086" type="2" bezierinvalue="1.68086" bezierintime="41.4"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="122.659" property="1" time="42" bezierouttime="47.4" value="122.659" type="2" bezierinvalue="122.659" bezierintime="41.4"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="61.5211" property="2" time="42" bezierouttime="47.4" value="61.5211" type="2" bezierinvalue="61.5211" bezierintime="41.4"/>
       </clip>
     </animation>
     <control sensitivity="20" contextprojections="1" zoomcentercursor="1" simulatemass="1" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedmouse="0" contextvr="0" lockedwheel="0" hideabout="0" invertwheel="0" speedwheel="1" contextfullscreen="0" dblclickfullscreen="0">
@@ -136,7 +145,7 @@
     <userdata title="فيديو وتحكم في الحركة داخل حمام الماستر بيت الطويسة اعمال المكتب تصاميم وتنفيذ" author="" comment="" description="" tags="" copyright=""/>
     <animationsequences>
       <sequence title="Animation01">
-        <sequenceelement index="0" nodeid="node4" cliptitle="Clip01" startview="1.33439/0.855702/127.848/9"/>
+        <sequenceelement index="0" nodeid="node4" cliptitle="Clip01" startview="1.33439/0.855702/127.848/4"/>
         <sequenceelement index="1" nodeid="node3" cliptitle="Clip02" startview="88.9586/-96.2271/237.321/9"/>
       </sequence>
     </animationsequences>
