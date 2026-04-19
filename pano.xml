@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="21010" hassounds="1" start="node3" appversion="7.1.11">
+  <panorama id="node3">
+    <input levelingpitch="0" height="2000" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" overlap="1" levelbiashidpi="1.000" width="2000">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="88.0346" fovmode="2">
+      <start projection="4" pan="-0.34233" fov="126.249" tilt="51.1234"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" fov="140" tilt="90"/>
+    </view>
+    <userdata longitude="" title="" author="" comment="" datetime="" nodeid="node3" copyright="" latitude="" source="" info="" customnodeid="" description="" tags="MasterbedroomShopDrawing-AutocadFile" heading="88.0346">
+      <mapcoords y="-1.24969" y_floorplan_percent="79.2683" x_floorplan_percent="62.4176" mapid="FloorPlan02" x="0.780029"/>
+    </userdata>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label textalpha="1" height="20" wordwrap="1" border="1" borderradius="1" textcolor="0x000000" background="1" backgroundalpha="1" enabled="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot target="-90.3/2.7/100.0" url="{node4}" title="" id="Point02" pan="-241.2" description="" skinid="ht_node" tilt="-27.11"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="_background" pan="-1.000" mode="0" nodechangekeep="1" level="1.000" startmutedmobile="0" loop="0" field="90.000" ambientlevel="0.000" tiltsize="10.000" tilt="-1.000">
+        <source url="media/Dark-Knight-chosic.com_-1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomspeed="2" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="40" zoomin="0" softedge="0" blendcolor="0x000000" zoomoutpause="1"/>
+    <autorotate delay="1.00" useanimation="1" speed="0.100" horizonfromdefview="0" startloaded="0" nodedelay="0.00" enabled="1" noderandom="1" nodefilter="" returntohorizon="0.000"/>
+    <soundstransition enabled="1" transitiontime="1.1000000000000001" crossfade="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="1">
+      <clip length="324" cliptitle="Clip02" nodeid="" animtype="0" nextclipstartview="1.33439/0.855702/127.848/9" animtitle="Animation01" nextcliptitle="Clip01" transitiontype="0" nextclipnodeid="node4">
+        <keyframe value="88.9586" valuestring="" type="0" transitiontime="0" additionaltrackid="" property="0" time="0"/>
+        <keyframe value="-96.2271" valuestring="" type="0" transitiontime="0" additionaltrackid="" property="1" time="0"/>
+        <keyframe value="237.321" valuestring="" type="0" transitiontime="0" additionaltrackid="" property="2" time="0"/>
+        <keyframe value="9" valuestring="" type="0" transitiontime="0" additionaltrackid="" property="3" time="0"/>
+        <keyframe value="9" valuestring="" type="0" transitiontime="8" additionaltrackid="" property="3" time="29"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="89.1923" property="0" time="25" bezierouttime="26.8" value="88.96" type="2" bezierinvalue="88.534" bezierintime="21.7"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-57.2181" property="1" time="24" bezierouttime="25.7852" value="-65.4545" type="2" bezierinvalue="-80.5545" bezierintime="20.7271"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="225.392" property="2" time="23" bezierouttime="24.7992" value="220.453" type="2" bezierinvalue="211.396" bezierintime="19.7014"/>
+        <keyframe value="9" valuestring="" type="0" transitiontime="12" additionaltrackid="" property="3" time="3"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="91.6254" property="0" time="36" bezierouttime="39.3" value="91.153" type="2" bezierinvalue="90.8953" bezierintime="34.2"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-13.2026" property="1" time="36" bezierouttime="39.3" value="-17.794" type="2" bezierinvalue="-20.2964" bezierintime="34.2014"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="238.495" property="2" time="36" bezierouttime="39" value="220.094" type="2" bezierinvalue="209.077" bezierintime="34.2038"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="89.6034" property="0" time="61" bezierouttime="61.9" value="89.6034" type="2" bezierinvalue="89.6034" bezierintime="57.7"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-0.343007" property="1" time="61" bezierouttime="61.9" value="-0.343007" type="2" bezierinvalue="-0.343007" bezierintime="57.7"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="118.687" property="2" time="61" bezierouttime="61.9" value="118.687" type="2" bezierinvalue="118.687" bezierintime="58"/>
+        <keyframe value="4" valuestring="" type="0" transitiontime="7" additionaltrackid="" property="3" time="56"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-2.13109" property="0" time="81" bezierouttime="89.7" value="-2.13109" type="2" bezierinvalue="-2.13109" bezierintime="74.1"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-1.3977" property="1" time="81" bezierouttime="89.7" value="-1.3977" type="2" bezierinvalue="-1.3977" bezierintime="74.1"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="129.702" property="2" time="81" bezierouttime="89.7" value="129.702" type="2" bezierinvalue="129.702" bezierintime="74.1"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-72.1889" property="0" time="103" bezierouttime="112" value="-72.1889" type="2" bezierinvalue="-72.1889" bezierintime="94.3"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="36.4125" property="1" time="103" bezierouttime="112" value="36.4125" type="2" bezierinvalue="36.4125" bezierintime="94.3"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="130.483" property="2" time="103" bezierouttime="112" value="130.483" type="2" bezierinvalue="130.483" bezierintime="94.3"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-179.943" property="0" time="136" bezierouttime="142" value="-179.943" type="2" bezierinvalue="-179.943" bezierintime="126.1"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-0.432648" property="1" time="136" bezierouttime="142" value="-0.432648" type="2" bezierinvalue="-0.432648" bezierintime="126.1"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="105.563" property="2" time="136" bezierouttime="142" value="105.563" type="2" bezierinvalue="105.563" bezierintime="126.1"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-244.305" property="0" time="156" bezierouttime="165" value="-244.305" type="2" bezierinvalue="-244.305" bezierintime="150"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="0.342309" property="1" time="156" bezierouttime="165" value="0.342309" type="2" bezierinvalue="0.342309" bezierintime="150"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="136.362" property="2" time="156" bezierouttime="165" value="136.362" type="2" bezierinvalue="136.362" bezierintime="150"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-270.13" property="0" time="200" bezierouttime="237.2" value="-270.13" type="2" bezierinvalue="-270.13" bezierintime="191"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="0.438181" property="1" time="200" bezierouttime="237.2" value="0.438181" type="2" bezierinvalue="0.438181" bezierintime="191"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="116.533" property="2" time="200" bezierouttime="237.2" value="116.533" type="2" bezierinvalue="116.533" bezierintime="191"/>
+        <keyframe value="9" valuestring="" type="0" transitiontime="9" additionaltrackid="" property="3" time="200"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="89.3499" property="0" time="324" bezierouttime="10324" value="89.3499" type="2" bezierinvalue="89.3499" bezierintime="286.8"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-96.5015" property="1" time="324" bezierouttime="10324" value="-96.5015" type="2" bezierinvalue="-96.5015" bezierintime="286.8"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="277.702" property="2" time="324" bezierouttime="10324" value="277.702" type="2" bezierinvalue="277.702" bezierintime="286.8"/>
+      </clip>
+    </animation>
+    <control sensitivity="20" contextprojections="1" zoomcentercursor="1" simulatemass="1" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedmouse="0" contextvr="0" lockedwheel="0" hideabout="0" invertwheel="0" speedwheel="1" contextfullscreen="0" dblclickfullscreen="0">
+      <menulink url="" text="ENEMATION VIDIO"/>
+    </control>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" height="2000" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" overlap="1" levelbiashidpi="1.000" width="2000">
+      <level predecode="0" height="2000" width="2000" preload="0"/>
+      <level predecode="0" height="1000" width="1000" preload="0"/>
+      <level predecode="1" height="500" width="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-265.996" fovmode="2">
+      <start projection="4" pan="0" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fovstereographic="330" fov="140" tilt="90"/>
+    </view>
+    <userdata longitude="" title="" author="" comment="" datetime="" nodeid="node4" copyright="" latitude="" source="" info="" customnodeid="" description="" tags="MasterbedroomShopDrawing-AutocadFile" heading="-265.996">
+      <mapcoords y="-0.439453" y_floorplan_percent="27.8746" x_floorplan_percent="38.6813" mapid="FloorPlan02" x="0.483398"/>
+    </userdata>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label textalpha="1" height="20" wordwrap="1" border="1" borderradius="1" textcolor="0x000000" background="1" backgroundalpha="1" enabled="1" bordercolor="0x000000" width="180" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot target="0.2/65.0/100.0" url="{node3}" title="" id="Point02" pan="-84.49" description="" skinid="ht_node" tilt="-28.03"/>
+    </hotspots>
+    <media>
+      <sound pansize="10.000" id="_background" pan="-1.000" mode="0" nodechangekeep="1" level="1.000" startmutedmobile="0" loop="0" field="90.000" ambientlevel="0.000" tiltsize="10.000" tilt="-1.000">
+        <source url="media/Dark-Knight-chosic.com_-1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition delay="none" zoomout="0" zoomfov="40" zoomafterinfov="140" zoomspeed="2" blendtime="1" enabled="1" type="crossdissolve" zoomafteroutfov="40" zoomin="0" softedge="0" blendcolor="0x000000" zoomoutpause="1"/>
+    <autorotate delay="1.00" useanimation="1" speed="0.100" horizonfromdefview="0" startloaded="0" nodedelay="0.00" enabled="1" noderandom="1" nodefilter="" returntohorizon="0.000"/>
+    <soundstransition enabled="1" transitiontime="1.1000000000000001" crossfade="0"/>
+    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="1" syncanimationwithvideo="1">
+      <clip length="100" cliptitle="Clip01" nodeid="" animtype="0" nextclipstartview="88.9586/-96.2271/237.321/9" animtitle="Animation01" nextcliptitle="Clip02" transitiontype="0" nextclipnodeid="node3">
+        <keyframe value="1.33439" valuestring="" type="0" transitiontime="0" additionaltrackid="" property="0" time="0"/>
+        <keyframe value="0.855702" valuestring="" type="0" transitiontime="0" additionaltrackid="" property="1" time="0"/>
+        <keyframe value="127.848" valuestring="" type="0" transitiontime="0" additionaltrackid="" property="2" time="0"/>
+        <keyframe value="9" valuestring="" type="0" transitiontime="11" additionaltrackid="" property="3" time="0"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-1.45918" property="0" time="4" bezierouttime="6.1" value="-0.499114" type="2" bezierinvalue="-0.0876567" bezierintime="3.1"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="28.6339" property="1" time="4" bezierouttime="6.0999" value="26.0976" type="2" bezierinvalue="25.0106" bezierintime="3.10004"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="249.506" property="2" time="4" bezierouttime="6.09994" value="239.698" type="2" bezierinvalue="235.495" bezierintime="3.10002"/>
+        <keyframe value="4" valuestring="" type="0" transitiontime="5" additionaltrackid="" property="3" time="17"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-3.30185" property="0" time="17" bezierouttime="23" value="-3.23736" type="2" bezierinvalue="-3.21479" bezierintime="14.9"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="6.96353" property="1" time="17" bezierouttime="22.9992" value="12.9338" type="2" bezierinvalue="15.0234" bezierintime="14.9003"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="136.811" property="2" time="17" bezierouttime="22.8948" value="174.553" type="2" bezierinvalue="187.314" bezierintime="15.0068"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-0.325647" property="0" time="40" bezierouttime="46" value="-0.789348" type="2" bezierinvalue="-1.25305" bezierintime="34"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="0.308348" property="1" time="40" bezierouttime="46" value="-0.772065" type="2" bezierinvalue="-1.85248" bezierintime="34"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="47.3296" property="2" time="40" bezierouttime="45.9999" value="66.8157" type="2" bezierinvalue="86.3018" bezierintime="34.0001"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-1.07044" property="0" time="60" bezierouttime="62.4" value="-0.996138" type="2" bezierinvalue="-0.810374" bezierintime="54"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="25.2443" property="1" time="60" bezierouttime="62.3993" value="18.1558" type="2" bezierinvalue="0.434523" bezierintime="54.0017"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="89.7824" property="2" time="60" bezierouttime="62.4" value="80.3691" type="2" bezierinvalue="56.8359" bezierintime="54.0001"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-58.9776" property="0" time="83" bezierouttime="86.3" value="-58.9776" type="2" bezierinvalue="-58.9776" bezierintime="80.6"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="55.3616" property="1" time="83" bezierouttime="86.3" value="55.3616" type="2" bezierinvalue="55.3616" bezierintime="80.6"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="141.339" property="2" time="83" bezierouttime="86.3" value="141.339" type="2" bezierinvalue="141.339" bezierintime="80.6"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="-89.6776" property="0" time="94" bezierouttime="10094" value="-89.6776" type="2" bezierinvalue="-89.6776" bezierintime="90.7"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="90.2916" property="1" time="94" bezierouttime="10094" value="90.2916" type="2" bezierinvalue="90.2916" bezierintime="90.7"/>
+        <keyframe valuestring="" additionaltrackid="" transitiontime="0" bezieroutvalue="141.339" property="2" time="94" bezierouttime="10094" value="141.339" type="2" bezierinvalue="141.339" bezierintime="90.7"/>
+      </clip>
+    </animation>
+    <control sensitivity="20" contextprojections="1" zoomcentercursor="1" simulatemass="1" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedmouse="0" contextvr="0" lockedwheel="0" hideabout="0" invertwheel="0" speedwheel="1" contextfullscreen="0" dblclickfullscreen="0">
+      <menulink url="" text="ENEMATION VIDIO"/>
+    </control>
+  </panorama>
+  <masternode>
+    <userdata title="فيديو وتحكم في الحركة داخل حمام الماستر بيت الطويسة اعمال المكتب تصاميم وتنفيذ" author="" comment="" description="" tags="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01">
+        <sequenceelement index="0" nodeid="node4" cliptitle="Clip01" startview="1.33439/0.855702/127.848/9"/>
+        <sequenceelement index="1" nodeid="node3" cliptitle="Clip02" startview="88.9586/-96.2271/237.321/9"/>
+      </sequence>
+    </animationsequences>
+  </masternode>
+  <map zoomlevels="1" height="574" title="" tileformat="jpg" id="FloorPlan02" crispedges="0" transparent="1" floorplannorth="0" type="file" index="0" bgcolor="rgba(255, 255, 255, 0)" width="455"/>
+</tour>
